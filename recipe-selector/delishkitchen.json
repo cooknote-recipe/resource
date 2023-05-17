@@ -1,0 +1,18 @@
+{
+  "title": "h1",
+  "thumbnail": ".delish-main-player video",
+  "description": ".delish-recipe-description",
+  "for": ".recipe-serving span",
+  "ingredients": {
+    "index": ".ingredient-list li",
+    "name": ".ingredient-name",
+    "quantity": ".ingredient-serving",
+    "group": ".ingredient-group__header"
+  },
+  "steps": {
+    "index": ".steps li",
+    "number": ".step-num",
+    "text": ".step-text-wrap",
+    "img": "img"
+  }
+}

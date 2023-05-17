@@ -1,0 +1,17 @@
+{
+  "title": "h1.recipe_detail__title_text",
+  "thumbnail": ".mediaMain img",
+  "description": ".recipe_detail_user__recipe_comment",
+  "for": ".recipe_detail_material h2",
+  "ingredients": {
+    "index": ".recipe_detail_material dl",
+    "name": "dt",
+    "quantity": "dd"
+  },
+  "steps": {
+    "index": ".recipe_detail_howto__contents",
+    "number": ".recipe_detail_howto__number",
+    "text": ".recipe_detail_howto__text",
+    "img": "recipe_detail_howto__image"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "h1",
+  "thumbnail": ".dly-video-root.MainVideoSp-videoPlayer video",
+  "description": ".MainContentWta-introduction",
+  "for": ".MainContentWta-sectionTitleIngredientsServings",
+  "ingredients": {
+    "index": ".MainContentWta-ingredientsList li",
+    "name": "",
+    "quantity": ""
+  },
+  "steps": {
+    "index": ".MainContentWta-instructionsList li",
+    "number": ".MainContentWta-instructionsListItemOrder",
+    "text": ".MainContentWta-instructionsListItemBody",
+    "img": "img"
+  }
+}

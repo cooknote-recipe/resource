@@ -1,0 +1,17 @@
+{
+  "title": "h1",
+  "thumbnail": ".css-1unwftr",
+  "description": ".css-1q7t5b6",
+  "for": ".css-1inzcgb",
+  "ingredients": {
+    "index": ".css-k5uvsj li.css-1f0cdm5",
+    "group": "h3",
+    "name": "span:nth-child(0)",
+    "quantity": "span:nth-child(1)"
+  },
+  "steps": {
+    "index": ".css-ti69ve li",
+    "text": ".css-cvact0",
+    "img": "img"
+  }
+}

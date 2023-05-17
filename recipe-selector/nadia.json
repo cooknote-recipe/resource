@@ -1,0 +1,18 @@
+{
+  "title": "h1",
+  "thumbnail": ".RecipeMainImage_modalImage__IXRmn img",
+  "description": ".RecipeDesc_box__hYIxT",
+  "for": ".CommonHeading_heading__1Pbrt span",
+  "ingredients": {
+    "index": ".IngredientsList_list__1jDm2 li",
+    "group": ".IngredientsList_group__2at36",
+    "name": ".IngredientsList_ingredient__3wBu0",
+    "quantity": ".IngredientsList_amount__31Tb6"
+  },
+  "steps": {
+    "index": ".CookingProcess_list__2KqPW li",
+    "number": ".CookingProcess_group__3Oboo",
+    "text": ".CookingProcess_text__mOeW8",
+    "img": "img"
+  }
+}
